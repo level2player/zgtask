@@ -1,1 +1,1 @@
-### go get github.com/level2player/task-controller
+### go get github.com/level2player/zgtask
